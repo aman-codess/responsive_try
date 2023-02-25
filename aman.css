@@ -118,7 +118,7 @@ a {
 margin-left: 0;
     font-size: 10px;
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
   }
   .box {
     border: 1px solid white;
