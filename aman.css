@@ -117,8 +117,9 @@ a {
   .pallets {
 margin-left: 0;
     font-size: 10px;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    display: flex;
+    flex-direction:column;
+  
   }
   .box {
     border: 1px solid white;
