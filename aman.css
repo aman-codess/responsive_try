@@ -164,3 +164,6 @@ button:active .span {
   transform: translateY(-5px);
 }
 }
+::selection{
+  background: none;
+}
